@@ -1,0 +1,18 @@
+{
+  "name": "mylenslight",
+  "version": "1.0.0",
+  "description": "lenslight project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Sefa Dede",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
